@@ -1,6 +1,11 @@
 ---
 title: "Caminhando longe de tudo"
-layout: single
+categories:
+  - Cotidiano
+tags:
+  - cotidiano
+  - poesia
+  - memória
 ---
 
 No [episódio de hoje do meu podcast **Ano Bissexto**](https://soundcloud.com/marcosramon/ano-bissexto-059-caminhando-longe-de-tudo){:target="_blank"}, li esse texto que você vê mais abaixo. Escrevi isso como uma letra de uma música que nunca chegou a existir. Na época (Janeiro de 2011), com pouco tempo aqui em Brasília, eu estava cansado e triste por estar vivendo nessa cidade. Mas o tempo passou e o meu sentimento em relação à cidade (e a mim mesmo) mudou.
