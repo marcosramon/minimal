@@ -1,13 +1,14 @@
 ---
-layout: post
-title: Um experimento de escrita
-description: "Por esses dias eu estava pensando sobre a possibilidade de encontrar novas formas de me relacionar com os meus textos e com as coisas ideias presentes neles."
-published: true
-tags: [cotidiano]
-categories: [cotidiano]
-date: 2016-03-14
-image: "/assets/images/escrever.png"
-author: Marcos Ramon
+title: "Um experimento de escrita"
+header:
+  video:
+    id: 
+    provider: 
+categories:
+  - Texto
+tags:
+  - escrita
+  - network
 ---
 
 Por esses dias eu estava pensando sobre a possibilidade de encontrar novas formas de me relacionar com os meus textos e com as coisas ideias presentes neles.
