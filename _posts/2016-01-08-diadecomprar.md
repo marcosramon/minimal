@@ -1,13 +1,10 @@
 ---
-layout: post
-title: Dia de comprar
-description: "Será que conseguimos resistir ao consumismo com tanta propaganda?"
-published: true
-tags: [cotidiano]
-categories: [cotidiano]
-date: 2016-01-08
-image: https://dl.dropboxusercontent.com/u/49566417/blog/01_2016/compre.png
-author: Marcos Ramon
+title: "Dia de comprar"
+categories:
+  - Cotidiano
+tags:
+  - consumo
+  - comportamento
 ---
 
 Ontem, logo cedo, vi na internet alguma coisa sobre ser o *#DiaDoLeitor* e junto um monte de propagandas e links para sites que estavam vendendo livros, *e-readers* e os itens mais diversos para os amantes da leitura.
