@@ -1,13 +1,9 @@
 ---
-layout: post
-title: Ser o carnaval
-description: "Tem gente que, mesmo sem ter o espírito carnavalesco, consegue se fantasiar do que não é e aproveitar essa época do ano da melhor forma possível. Afinal, é tudo diversão e alegria e desapego."
-published: true
-tags: [cotidiano]
-categories: [cotidiano]
-date: 2016-02-06
-image: https://dl.dropboxusercontent.com/u/49566417/blog/02_2016/carnaval.JPG
-author: Marcos Ramon
+title: "Ser o carnaval"
+categories:
+  - Cotidiano
+tags:
+  - carnaval
 ---
 
 Tem gente que, mesmo sem ter o espírito carnavalesco, consegue se fantasiar do que não é e aproveitar essa época do ano da melhor forma possível. Afinal, é tudo diversão e alegria e desapego. E, olha, eu acho que eles estão certos.
