@@ -22,5 +22,5 @@ Estar atento para as coisas, demonstrar interesse pelas pessoas e pelo mundo. Ex
 
 Por outro lado, sempre podemos aprender com o que os outros disseram e escreveram; e essa é, talvez, a grande beleza da nossa época: ver o conhecimento disponível e pronto para ser encontrado. Um mundo ideal? O meio do caminho, entre a lentidão das cartas e o acesso ao conhecimento.
 
-<img src="/assets/images/024-jackson-pollock-the-red-list.jpg">
+<img src="/docs/assets/images/024-jackson-pollock-the-red-list.jpg">
 <small>[Jackson Pollock](https://g.co/kgs/NglZkD) em seu estúdio</small>
