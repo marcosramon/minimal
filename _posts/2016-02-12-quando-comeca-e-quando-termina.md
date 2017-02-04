@@ -1,13 +1,10 @@
 ---
-layout: post
-title: Quando começa e quando termina?
-description: "Não sou adepto dessa história de que o ano começa depois do carnaval. Todo mundo faz um monte de coisa antes do carnaval, e dizer que nada de importante aconteceu antes é só um jeito de atrasar coisas que você sabe que deveria fazer."
-published: true
-tags: [cotidiano]
-categories: [cotidiano]
-date: 2016-02-12
-image: https://s-media-cache-ak0.pinimg.com/564x/f7/ff/73/f7ff73b89af1adaee314c6237e8f29a0.jpg
-author: Marcos Ramon
+title: "Quando começa e quando termina?"
+categories:
+  - Cotidiano
+tags:
+  - cotidiano
+  - trabalho
 ---
 
 Não sou adepto dessa história de que o ano começa depois do carnaval. Todo mundo faz um monte de coisa antes do carnaval, e dizer que nada de importante aconteceu antes é só um jeito de atrasar coisas que você sabe que deveria fazer. Além disso, essa medida do tempo é só uma ilusão. Cada dia é um dia e o tempo não para pra esperar a gente se decidir. Defender a ideia de que um ano começa (ou termina) em uma data específica é uma maneira simples de fingir não se importar com o fato de que a gente é finito.
