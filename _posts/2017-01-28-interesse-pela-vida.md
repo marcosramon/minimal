@@ -6,7 +6,6 @@ header:
     provider: 
 categories:
   - Arte
-  - Uncategorized
 tags:
   - cartas
   - arte
