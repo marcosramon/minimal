@@ -1,13 +1,14 @@
 ---
-layout: post
-title: Todo mundo devia ser professor
-description: "O melhor de ser professor é se ver confrontado com a realidade a todo instante"
-published: true
-tags: [cotidiano]
-categories: [cotidiano]
-date: 2016-03-09
-image: "/assets/images/mindseye.png"
-author: Marcos Ramon
+title: "Todo mundo devia ser professor"
+header:
+  video:
+    id: 
+    provider: 
+categories:
+  - Cotidiano
+tags:
+  - ensino
+  - docência
 ---
 
 O melhor de ser professor é se ver confrontado com a realidade a todo instante. 
