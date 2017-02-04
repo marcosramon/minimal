@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Arcano5"
 title_separator          : "-"
 name                     : "Marcos Ramon"
-description              : "An amazing website."
+description              : "Filosofia, literatura e cotidiano, por Marcos Ramon"
 url                      : "https://marcosramon.github.io"
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Marcos Ramon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Escritor, podcaster, músico e professor de Filosofia"
+  location         : "Brasília"
   email            :
   uri              :
   bitbucket        :
