@@ -1,13 +1,10 @@
 ---
-layout: post
-title: O pior e o melhor de todos nós
-description: "Uma das consequências mais terríveis de se andar de transporte público - pelo menos pra mim - é acabar sentindo raiva."
-published: true
-tags: [cotidiano]
-categories: [cotidiano]
-date: 2016-02-11
-image: https://s-media-cache-ak0.pinimg.com/564x/f7/ff/73/f7ff73b89af1adaee314c6237e8f29a0.jpg
-author: Marcos Ramon
+title: "O pior e o melhor de todos nós"
+categories:
+  - Cotidiano
+tags:
+  - cotidiano
+  - sociedade
 ---
 
 Uma das consequências mais terríveis de se andar de transporte público - pelo menos pra mim - é acabar sentindo raiva. Raiva do cara de vinte e poucos anos lendo uma revista da Marvel sentado no assento preferencial (com duas idosas em pé ao lado dele); raiva do outro que espirra em cima de todo mundo no metrô lotado sem se preocupar com a saúde alheia; raiva daquele que escuta música no volume máximo, sem entender que as outras pessoas no vagão não compartilham do desejo dele de ficar surdo.
