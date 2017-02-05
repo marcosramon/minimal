@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Marcos Ramon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "Escritor, podcaster, músico e professor de Filosofia"
   location         : "Brasília"
   email            : "contato@marcosramon.net"
