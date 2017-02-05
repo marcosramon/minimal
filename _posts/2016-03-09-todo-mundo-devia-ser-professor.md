@@ -1,9 +1,7 @@
 ---
 title: "Todo mundo devia ser professor"
 header:
-  video:
-    id: 
-    provider: 
+  overlay_color: "#333" 
 categories:
   - Cotidiano
 tags:
