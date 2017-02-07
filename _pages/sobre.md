@@ -1,6 +1,7 @@
 ---
 permalink: /sobre/
 title: "Sobre"
+layout: single
 ---
 
 ## O blog
