@@ -11,4 +11,5 @@ Estar vivo, lutar pela sobrevivência, criar laços com outras pessoas, encontra
 
 Existe leveza, beleza e calma na vida. Queria encontrar esse meio-termo, achar esse caminho que me colocasse em uma situação de entendimento da minha existência e das minhas limitações. Às vezes penso que o meu erro— e o de muita gente — é querer estar no controle, determinando, conduzindo, explicando tudo. Queria ter a coragem de só fazer perguntas, sem esperar nenhuma resposta. Mas isso é muito pra mim, é mais do que eu posso ser.
 
-Foto de [Greg Girard](http://www.greggirard.com/){:target="_blank"}
+<img src="/assets/images/greggirard.jpg"><br>
+<small>Foto de [Greg Girard](http://www.greggirard.com/){:target="_blank"}</small>
