@@ -1,8 +1,5 @@
 ---
 title: "Todas as escolas deveriam ser escolas de arte"
-header:
-  image: /assets/images/bobandrobertasmith.jpg
-  caption: "Bob and Roberta Smith"
 tags: 
   - arte
   - educação
