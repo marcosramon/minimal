@@ -1,5 +1,5 @@
 ---
-layout: single
+permalink: /sobre/
 title: "Sobre"
 ---
 
