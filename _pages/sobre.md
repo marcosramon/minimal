@@ -1,10 +1,6 @@
 ---
 layout: single
-title: Sobre
-published: true
-description: "Arcano5 / Marcos Ramon"
-author: Marcos Ramon
-header-img: "/img/abstrato5.jpg"
+title: "Sobre"
 ---
 
 ## O blog
