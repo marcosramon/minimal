@@ -197,7 +197,7 @@ pt: &DEFAULT_PT
   toc_label                  : "Nesta Página"
   ext_link_label             : "Link Direto"
   less_than                  : "menos de"
-  minute_read                : "minutos de leitura"
+  minute_read                : "min. de leitura"
   share_on_label             : "Partilhar no"
   meta_label                 :
   tags_label                 : "Etiquetas:"
@@ -235,18 +235,18 @@ pt-BR:
   menu_label                 :
   toc_label                  : "Nesta página"
   ext_link_label             : "Link direto"
-  less_than                  : "meno que"
-  minute_read                : "minutos de leitura"
-  share_on_label             : "Compartilhe em"
+  less_than                  : "menos que"
+  minute_read                : "min. de leitura"
+  share_on_label             : "Compartilhe"
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categorias:"
-  date_label                 : "Atualizado em:"
+  date_label                 : "Publicado em:"
   comments_label             : "Deixe um comentário"
   comments_title             :
   more_label                 : "Aprenda Mais"
   related_label              : "Você Talvez Goste Também"
-  follow_label               : "Acompanhe em"
+  follow_label               : "Siga"
   feed_label                 : "Feed"
   powered_by                 : "Feito com"
   website_label              : "Site"
