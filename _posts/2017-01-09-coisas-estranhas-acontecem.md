@@ -1,4 +1,11 @@
-Coisas estranhas acontecem
+---
+title: "Coisas estranhas acontecem"
+categories:
+  - Cotidiano
+tags:
+  - acaso
+  - realidade
+---
 
 A realidade não é previsível o tempo todo. Todo mundo, em algum momento da vida, já esteve em contato com o absurdo e, claro, nesse momento nos sentimos especiais. “Preciso te contar o aconteceu comigo! Você não vai acreditar!” E seguimos guardando aqueles fatos e situações inusitadas que fazem nosso repertório de insanidade controlada em um mundo em que tudo precisa ser racional e explicável.
 
